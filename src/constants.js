@@ -1,4 +1,7 @@
 export const ItemTypes = {
   TOOL: "tool",
-  PLACED_TOOL: "placed_tool", // Feature: Move Items
+  IMAGE: "image", 
+  EMOJI: "emoji",
+  BUTTON: "button",
+  PLACED_ITEM: "placed_item"
 };
